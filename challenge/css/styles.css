@@ -1,0 +1,88 @@
+.hero-image{
+	width: 100%;
+}
+
+.hero-container{
+	padding:0;
+}
+.main-container{
+	padding:0;
+}
+.navbar-toggler-right{
+	border: 2px solid black;
+}
+.hero-text {
+	position: absolute;
+	left: 30%;
+	top:40%;
+	color: white;
+	font-size: 1.5vw;
+}
+.bottom-section {
+	background-color: grey;
+	padding-top:140px;
+	padding-left:0;
+	color: white;
+	padding-right: 0;
+}
+
+.bottom-text {
+	padding-left: 100px;
+	padding-top: 50px;
+	font-size: 30px;
+}
+.modal-body {
+	font-size: 1rem;
+}
+
+.back {
+	float: right;
+}
+.icons{
+	margin-bottom: 20px;
+}
+.product-image img {
+	width:100%;
+}
+.product-image {
+	padding-left: 0;
+	padding-right: 0;
+}
+.info{
+	padding-top: 125px;
+	padding-bottom: 100px;
+	width:100%;
+}
+form label, form h3 {
+	color:black;
+}
+form p {
+	color:red;
+}
+
+@media only screen and (max-width: 991px){
+	.bottom-section{
+		background-color: white;
+		color:black;
+		text-align: center;
+	}
+	.info {
+		text-align: left;
+	}
+	.container.info {
+		text-align: center;
+	}
+	.bottom-section {
+		padding-top: 15px;
+	}
+	.bottom-text {
+		padding:10px 30px;
+	}
+	.footer{
+		padding-top: 30px;
+		text-align: center;
+	}
+	.info {
+		text-align: center;
+	}
+}

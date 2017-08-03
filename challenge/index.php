@@ -95,7 +95,7 @@
 						              <input type="text" class="form-control" id="phoneNumber" aria-describedby="emailHelp" placeholder="Phone number">
 						            </div>
 						          <button type="submit" class="btn btn-primary" id="submit">Submit</button>
-						          <button type="button" class="btn btn-secondary back data-dismiss="modal">Back</button>
+						          <button type="button" class="btn btn-secondary back" data-dismiss="modal">Back</button>
 								</form>
 		            		</div>
 		          		</div>
